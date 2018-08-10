@@ -2367,6 +2367,9 @@ article img.pull-right, article .align-right{
 		height: 270px;
 		object-fit: cover;
 	}
+	.index-h1-digital{
+		font-size: 26px;
+	}
 
 }
 
