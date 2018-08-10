@@ -2363,6 +2363,10 @@ article img.pull-right, article .align-right{
 	.container br{
 		display: none;
 	}
+	.index-scroll-img{
+		height: 270px;
+		object-fit: cover;
+	}
 
 }
 
